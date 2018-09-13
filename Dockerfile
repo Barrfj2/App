@@ -1,4 +1,4 @@
-FROM ubuntu: 16.04
+FROM ubuntu:16.04
 MAINTAINER Fletcher Barratt <barrfj2@student.op.ac.nz>
 ENV updated_on "2018-09-14 900"
 
